@@ -3,7 +3,7 @@ h1 {
     height: 40%;
     text-align: center;
     color:aquamarine;
-    border-color: black;
+    text-shadow:1px 1px 1px #000;
   }
 h2 {
     width: 100%;
@@ -17,3 +17,14 @@ link{
     align-items: center;
    
 }
+img {
+    border-radius: 10%;
+}
+body{
+    background-color:blanchedalmond;
+}
+p3{
+    font-size: x-small;
+}
+
+
