@@ -34,4 +34,10 @@ p5{
     color:deeppink;
 }
 
-
+a{
+    text-decoration:none;
+    color:blueviolet;
+    text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
+    
+    
+}
