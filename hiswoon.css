@@ -18,5 +18,6 @@ link{
    
 }
 img{
-    height: 10%;
+    size: 480px,800px;
+    max-width: 600px; 
 }
